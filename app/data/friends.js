@@ -14,6 +14,38 @@ var friends = [
             4,
             1
           ]
+      },
+      {
+        "name":"Al",
+        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "scores":[
+            4,
+            1,
+            4,
+            4,
+            5,
+            4,
+            2,
+            5,
+            2,
+            1
+          ]
+      },
+      {
+        "name":"Juan",
+        "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "scores":[
+            5,
+            5,
+            4,
+            4,
+            3,
+            1,
+            1,
+            5,
+            1,
+            3
+          ]
       }
       
 ];
